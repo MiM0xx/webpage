@@ -8,6 +8,7 @@ function setup() {
   background(220);
 }
 
+
 function draw() {
   background(220);
   stroke(255,0,0);
